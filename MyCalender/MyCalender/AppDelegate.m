@@ -11,6 +11,8 @@
 
 @interface AppDelegate ()
 
+// niao daol
+
 @end
 
 @implementation AppDelegate
